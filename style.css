@@ -1,6 +1,7 @@
 
 .all{
     background-color: black;
+    text-align: center;
 }
 .all{
     
@@ -22,4 +23,15 @@ h2{
 .logo{
     height: 100px;
     width: 100px;
+}
+.form{
+    background-color: aliceblue;
+    align-items: center;
+}
+.itens{
+    margin-left: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
 }
